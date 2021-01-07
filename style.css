@@ -1,3 +1,6 @@
 .card {
     width: 18rem;
 }
+#repos .card{
+    width: 100%;
+}
